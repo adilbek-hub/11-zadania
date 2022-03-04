@@ -1,0 +1,33 @@
+.block{
+    padding: 50px 200px;
+}
+
+.book-inputs{
+    display: block;
+    margin-top: 20px;
+}
+
+input{
+    height: 2rem;
+    width: 100%;
+}
+
+label{
+    font-size: 20px;
+}
+
+button{
+    width: 100%;
+    font-size: 18px;
+    padding: 10px;
+    margin-bottom: 30px;
+}
+
+.book-atribute{
+    display: flex;
+    justify-content:space-between;
+}
+
+td{
+    width: 300px;
+}
